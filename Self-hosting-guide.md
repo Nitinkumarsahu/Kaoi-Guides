@@ -46,7 +46,7 @@ To get the connection URL there are two ways
 #1 [Mongo Atlas](http://mongodb.com/cloud/atlas) and create an account \
 After you set up your account create a new Cluster \
 Then copy the connection url to your cluster
-([Mongo-Atlas-Guide](https://github.com/Synthesized-Infinity/Whatsapp-Botto-Void/blob/main/Guides/Mongo-Atlas-guide.md))
+([Mongo-Atlas-Guide](https://github.com/Synthesized-Infinity/Void-Guides/blob/main/Mongo-Atlas-guide.md))
 
 #2 If you don't want to use Mongo Atlas you can install MongoDB in your system and use the URI provided in `.env.example`
 Follow the instructions [here](https://docs.mongodb.com/manual/installation/) to install MongoDB in your system
