@@ -12,12 +12,14 @@
     | KEY | VALUE |
     | --- | ----------- |
     | BOTNAME | Void |
+    | CRON | 'null' |
     | PREFIX | ! |
     | SESSION | Any text you want but make sure to remember and don't share it |
     | MODS |  |
     | MONGO_URI | YOUR CLUSTER URI |
  
 `NAME` The name of the Bot <br>
+`CRON` Cron schedule for clearing all chats (Default: `"0 */6 * * *"`. Every 6 Hours). change this field to `null` if you don't want to schedule. [Learn More](https://www.npmjs.com/package/node-cron) <br>
 `PREFIX` The Prefix of the Bot <br>
 `SESSION` A string to keep track of your session. <br>
 `MODS` The phone numbers of users who you want to be the bot's Admins separated by a comma and must the numbers must be in the following format: `[cc][number]`. eg: `919744******`<br>
