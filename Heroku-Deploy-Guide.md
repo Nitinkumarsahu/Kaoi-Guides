@@ -21,7 +21,7 @@
  
 `NAME` The name of the Bot <br>
 `CRON` Cron schedule for clearing all chats (Default: `"0 */6 * * *"`. Every 6 Hours). change this field to `null` if you don't want to schedule. [Learn More](https://www.npmjs.com/package/node-cron) <br>
-`GOOGLE_API_KEY` Custom Search JSON API requires the use of an API key. [Get API key here](https://developers.google.com/custom-search/v1/introduction). After getting the API key, insert it while deploying on HEROKU.
+`GOOGLE_API_KEY` Custom Search JSON API requires the use of an API key. [Get API key here](https://developers.google.com/custom-search/v1/introduction). After getting the API key, insert it while deploying on HEROKU. <br>
 `PREFIX` The Prefix of the Bot <br>
 `SESSION` A string to keep track of your session. <br>
 `MODS` The phone numbers of users who you want to be the bot's Admins separated by a comma and must the numbers must be in the following format: `[cc][number]`. eg: `919744******`<br>
