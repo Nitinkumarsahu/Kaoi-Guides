@@ -13,7 +13,7 @@
     | --- | ----------- |
     | BOTNAME | Kaoi |
     | CRON | 'null' |
-    | GOOGLE_API_KEY | '-' |
+    | GOOGLE_API_KEY | 'Read below to get the API Key |
     | PREFIX | ! |
     | SESSION | Any text you want but make sure to remember and don't share it |
     | MODS |  |
