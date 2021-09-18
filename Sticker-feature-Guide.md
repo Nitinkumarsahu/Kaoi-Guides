@@ -1,4 +1,4 @@
-#💫Sticker
+# 💫Sticker
 
 💫Sticker command is now updated. You can use
 sticker --number to get sticker in different qualities.<br>
@@ -13,7 +13,7 @@ Example command :<br>
 &sticker --c --50<br>
 &sticker --s --40<br>
 
-note that here --c crops the sticker into square
+### Note that here --c crops the sticker into square
 and --s stretches it.<br>
 
 Also,
