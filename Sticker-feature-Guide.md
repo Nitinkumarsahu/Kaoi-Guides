@@ -1,23 +1,25 @@
+#💫Sticker
+
 💫Sticker command is now updated. You can use
-sticker --number to get sticker in different qualities.
-*note* : number must be *between 1-100* else it'll be set to default 50 value.
+sticker --number to get sticker in different qualities.<br>
+*note* : number must be *between 1-100* else it'll be set to default 50 value.<br>
 
 Use case : If normal &sticker command doesn't work because the gif is too big. You can try &sticker with lower quality. like &sticker --1
-or vice versa.
+or vice versa.<br>
 
-Example command : 
-&sticker --1
-&sticker --crop --1
-&sticker --c --50
-&sticker --s --40
+Example command :<br>
+&sticker --1<br>
+&sticker --crop --1<br>
+&sticker --c --50<br>
+&sticker --s --40<br>
 
 note that here --c crops the sticker into square
-and --s stretches it.
+and --s stretches it.<br>
 
 Also,
 
-&sticker --love --crop --70
-&sticker --happy --40
+&sticker --love --crop --70<br>
+&sticker --happy --40<br>
 
 here --love --happy organizes the sticker into the Whatsapp's inbuilt emoji pack
 ( as per the photo )
