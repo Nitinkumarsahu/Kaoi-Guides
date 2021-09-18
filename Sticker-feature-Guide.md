@@ -13,7 +13,8 @@ Example command :<br>
 &sticker --c --50<br>
 &sticker --s --40<br>
 
-### Note that here --c crops the sticker into square
+### Note:<br>
+That here --c crops the sticker into square<br>
 and --s stretches it.<br>
 
 Also,
@@ -22,4 +23,4 @@ Also,
 &sticker --happy --40<br>
 
 here --love --happy organizes the sticker into the Whatsapp's inbuilt emoji pack
-( as per the photo )
+( as per the photo :)
