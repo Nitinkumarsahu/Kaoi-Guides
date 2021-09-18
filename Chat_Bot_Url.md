@@ -9,4 +9,4 @@ PS: Domain name can be anything (ex-google.com)
 ````http://api.brainshop.ai/get?bid=[bid]&key=[key]&uid=[uid]&msg=[msg]<br>
 5. Paste it in your heroku app and deploy🔥💖.<br>
 
-`That's it You can make your own chatbot api. You can use this api for other projects as well.`
+That's it You can make your own chatbot api. You can use this api for other projects as well.
