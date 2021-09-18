@@ -1,5 +1,5 @@
 # Chatbot 🔰
-### A BOT WITH A BRAIN ROCKS!
+### Follow the instructions:- 
 1. Go to [brainshop](http://brainshop.ai)<br>
 2. Click on SIGNUP and enter all the fields asking for
 PS: Domain name can be anything (ex-google.com)
@@ -10,3 +10,5 @@ http://api.brainshop.ai/get?bid=[bid]&key=[key]&uid=[uid]&msg=[msg]<br>
 5. Paste it in your heroku app and deploy🔥💖.<br>
 
 That's it! You can make your own chatbot api. You can use this api for other projects as well.
+
+## 👁️‍🗨️A BOT WITH A BRAIN ROCKS! Úwù
