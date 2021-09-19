@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyMFJgpvsxId18-KECF_0A4WC3lJPBg9dwQ&usqp=CAU" alt="whatsapp-botto-void-init" border="0"></a>
 # Kaoi Hosting/Deploy Guides
 
 ## 💻 [Self-Hosting-Guide](https://github.com/Hiroto77/Kaoi-Guides/blob/main/Self-hosting-guide.md)
